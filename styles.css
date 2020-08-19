@@ -1,0 +1,53 @@
+body {
+    background-color: #ccc;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    width: 354px;
+    margin: 15% auto;
+    position: relative;
+}
+
+
+.white-keys kbd {
+    background-color: #fff;
+    color: #000;
+    display: inline-block;
+    width: 50px;
+    margin-left: -5px;
+    border: 1px solid #000;
+    padding-top: 190px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.black-keys kbd {
+    display: inline-block;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    width: 26px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    position: relative;
+    top: -217px;
+    margin-left: -5px;
+    left: 39px;
+}
+
+.black-keys kbd:nth-child(2) {
+    left: 65px;
+}
+
+.black-keys kbd:nth-child(3) {
+    left: 143px;
+}
+
+.black-keys kbd:nth-child(4) {
+    left: 169px;
+}
+
+.black-keys kbd:nth-child(5) {
+    left: 195px;
+}
