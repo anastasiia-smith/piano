@@ -1,1 +1,1 @@
-# Virtual piano task from hyperskill
+# Virtual piano task from "Track: Frontend Developer, hyperskill.org"
